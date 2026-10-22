@@ -19,7 +19,7 @@ istrue=True
 print(istrue)
 
 
-#if we want to take input from user then we must write inpyr before 
+#if we want to take input from user then we must write input before 
 variable=input("enter your name")
 print(variable)
 <br><br>
@@ -75,7 +75,7 @@ b=5
 print(a//b)
 print(a%b) 
 
-# ye second question hai
+# This is second question
 a=1250.75
 each_person=int(a/3)
 print(each_person)
